@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Oliver/Synchronizace ve videohrách.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Synchronizace ve videohrách"
             }
           }
         ]
@@ -191,6 +191,7 @@
   "active": "3222bbb16103922d",
   "lastOpenFiles": [
     "README.md",
+    "Oliver/Synchronizace ve videohrách.md",
     "Dalibor",
     "Filip",
     "Oliver",
